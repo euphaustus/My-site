@@ -10,7 +10,3 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/euphaustus
 
-plugins:
-  - search
-  - git-revision-date-localized:
-      type: date
