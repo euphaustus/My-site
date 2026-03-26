@@ -1,5 +1,16 @@
 site_name: My Portfolio
+site_url: https://orzomata.dev/
 theme:
   name: material
   palette:
     scheme: slate 
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/euphaustus
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
