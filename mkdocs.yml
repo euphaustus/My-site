@@ -1,0 +1,5 @@
+site_name: My Portfolio
+theme:
+  name: material
+  palette:
+    scheme: slate 
